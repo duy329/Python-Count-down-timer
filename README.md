@@ -1,2 +1,2 @@
 # Python-Count-down-timer
-Count down timer using Python
+A count down timer using Python
